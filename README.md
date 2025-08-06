@@ -117,7 +117,7 @@ This project aims to analyze ride data from Uber trips including time patterns, 
 
 ## 📬 Contact
 
-📧 your.email@example.com  
+📧 [Email](narendra.1402@yahoo.com)
 🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
 🌐 [Portfolio](https://yourportfolio.com)
 
