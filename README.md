@@ -115,9 +115,9 @@ This project aims to analyze ride data from Uber trips including time patterns, 
 
 
 
-## 📬 Contact
-
-📧 [Email](narendra.1402@yahoo.com)
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile)  
-🌐 [Portfolio](https://narendra1402.github.io/)
-
+## 🔗 Connect With Me  
+Feel free to explore more of my projects and reach out:  
+- [LinkedIn](https://www.linkedin.com/in/narendrasingh1402)
+- [YouTube](https://www.youtube.com/@Analyst_Hive)  
+- [Portfolio](https://narendra1402.github.io/)
+- [Online](https://narendra1402.github.io/)
